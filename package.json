@@ -1,0 +1,23 @@
+{
+  "name": "@frida/depd",
+  "description": "Node.js's depd module for Frida, without the deprecation warnings",
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./index.js",
+  "files": [
+    "/index.js"
+  ],
+  "type": "module",
+  "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
+  "keywords": [
+    "frida",
+    "deprecate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frida/gumjs-depd.git"
+  },
+  "license": "MIT"
+}
